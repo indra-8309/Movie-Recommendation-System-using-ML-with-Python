@@ -8,7 +8,7 @@ Pandas is a Python library that is used for faster data analysis, data cleaning 
 # difflib
 This module provides classes and functions for comparing sequences. It can be used for example, for comparing files, and can produce information about file differences in various formats, including HTML and context and unified diffs. For comparing directories and files, see also, the filecmp module.
 
-# sklearn.feature_extraction.text import TfidfVectorizer+
+# sklearn.feature_extraction.text import TfidfVectorizer
 Transform a count matrix to a normalized tf or tf-idf representation.
 Tf means term-frequency while tf-idf means term-frequency times inverse document-frequency. This is a common term weighting scheme in information retrieval, that has also found good use in document classification.
 # sklearn.metrics.pairwise import cosine_similarity
